@@ -1,6 +1,8 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+print("Testing CI/CD pipeline")
+
 class LoginTest {
 
     private final Login login = new Login();
